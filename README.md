@@ -1,0 +1,2 @@
+# VolumedPlugin
+Some plugin
